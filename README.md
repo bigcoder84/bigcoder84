@@ -10,7 +10,7 @@ About me
 Production Equipment
 
 - Windows R7-4800/32G
-- CentOS i5-10500/8G
+- Linux Intel N5105/8G
 
 Programming Tools
 
